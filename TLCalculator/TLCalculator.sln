@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLCalculator", "TLCalculator\TLCalculator.csproj", "{14F01E56-A679-46B8-A246-F4C1A9EC9B66}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "JX3CalculatorShared", "..\JX3CalculatorShared\JX3CalculatorShared\JX3CalculatorShared.shproj", "{EC7F565D-F295-4A92-94DF-4A430784C27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F01E56-A679-46B8-A246-F4C1A9EC9B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F01E56-A679-46B8-A246-F4C1A9EC9B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F01E56-A679-46B8-A246-F4C1A9EC9B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F01E56-A679-46B8-A246-F4C1A9EC9B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4CCBDCA-572B-43B1-BCE5-4E34C4612B68}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\JX3CalculatorShared\JX3CalculatorShared\JX3CalculatorShared.projitems*{14f01e56-a679-46b8-a246-f4c1a9ec9b66}*SharedItemsImports = 4
+		..\JX3CalculatorShared\JX3CalculatorShared\JX3CalculatorShared.projitems*{ec7f565d-f295-4a92-94df-4a430784c27d}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

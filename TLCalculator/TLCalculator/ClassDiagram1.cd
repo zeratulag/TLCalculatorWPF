@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JX3CalculatorShared.Data.AbsAttrItem" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAgAAAAAAAQQAAAAAAAAAAAAAQAAAABAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\AtItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.SkillAttrItem" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\AtItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AttrItem" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAQAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\AtItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AtLoader" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAgAAAAAAAAACSABAwAAAAAAIQAAAAAAAAAAEAAEA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\AtLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.CalculatorSettings" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgABAAAAAAAAAAAgAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\CalculatorSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.DataLoader" Collapsed="true">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBgEAQAAIAAAAoAIIJgAQGYAQEgBAAAAEIAkDkBAAVA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\DataLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsGeneralItem" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsToolTipItem" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.TargetItem" Collapsed="true">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.JBQiXueItem" Collapsed="true">
+    <Position X="34.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbilityItem" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsSkillDataItem" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.SkillInfoItemBase" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhACgAAAAAACgAgIAAAQgBAJDQAAEVAQAAiAgAAAE=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.SkillEventItem" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EDAgAAAAAABAoLAAAAIAQAAFAMAAAAAQQYQAAAQAAQA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.RecipeSkillMapItem" Collapsed="true">
+    <Position X="29" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.UselessAttr" Collapsed="true">
+    <Position X="34.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.SetOptionItem" Collapsed="true">
+    <Position X="30.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAgAAAAAAAAAAAAAggAAAAAAQAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsIconItem" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsIconToolTipItem" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbilitySkillNumItemBase" Collapsed="true">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAIEAAQCAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsBuffItem" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAkAAAAAwAgAAAAAAAAAAAAAAAAAADAQAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.Buff_dfItem" Collapsed="true">
+    <Position X="6.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAQAAIQAAAAAAAIAAACIIAAAAAAAAX4AAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.ItemDTItem" Collapsed="true">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEEAAAAAAAAACBAgAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.QiXueItem" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAAAAAAAAAAAEIAABAAAAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.ZhenFa_dfItem" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.AbsBigFMItem" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.BigFMItem" Collapsed="true">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBQBEAAAAAAAAAhAAAIAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.BottomsFMItem" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAABAAAAAAAAAAAAAAAAAQAAAQAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.EquipOptionItem" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAgAABABAAAAAAAAAAAAAABAQAgAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.RecipeItem" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAgAAAAQBBAAAhAwAIQAKABAAACAAAgQYAQAABAUAQ=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.DiamondValueItemBase" Collapsed="true">
+    <Position X="32.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAAAAAAABAAAhAAAgAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.CalcSetting" Collapsed="true">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAABAAgABAAAAAAAAAAAgAAAQAAAAAAAACAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.SkillModifier" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAgAAAAABAAAAAAwCIAAAAAAQACAAAAQYAJAAAAAAQ=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\SkillModifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.TabParser" Collapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAIAAAAAAAAAQEAAQQCAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\TabParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JX3CalculatorShared.Data.ZhenFa" Collapsed="true">
+    <Position X="29" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCIMACAAQAAAgAoEIAAEghwBEBQAAAAAQAAAQABAAAA=</HashCode>
+      <FileName>P:\CSRepos\JX3CalculatorShared\JX3CalculatorShared\Src\Data\ZhenFa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

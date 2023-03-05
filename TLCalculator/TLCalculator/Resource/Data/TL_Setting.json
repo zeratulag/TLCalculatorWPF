@@ -1,0 +1,37 @@
+{
+    "RawEssentialQiXues": "聚精凝神, 天风汲雨, 化血迷心, 诡鉴冥微",
+    "RawBannedQiXues": "天罗地网, 无声骤雨, 林寒涧肃, 鸿爪留泥, 汇神合极, 星坠河倾",
+    "RawEssentialMiJis": "868_1, 869_1",
+    "RawQiXueLib": {
+        "JiZhongQianQiu": "3,1,1,2,1,2,4,4,2,3,1,4",
+        "JiZhongGuiJian": "3,1,1,1,1,2,4,4,2,3,1,2",
+    },
+    "DefaultQiXue": "JiZhongGuiJian",
+    "SkillMiJiConfig": {
+        "3105": [
+            "868_1",
+            "869_1",
+            "871_1",
+            "872_1"
+        ],
+        "3108": [
+            "885_1",
+            "886_1",
+            "887_1",
+            "888_1"
+        ],
+        "3111": [
+            "1670_1",
+            "1671_1",
+            "1675_1",
+            "1676_1"
+        ],
+        "3093": [
+            "838_1",
+            "835_1",
+            "836_1",
+            "842_1"
+        ]
+    },
+    "DefaultJB" : {"Vitality":35407,"Agility":41,"Spirit":41,"Spunk":7247,"Strength":41,"PoisonAttackPowerBase":24063,"PoisonAttackPower":36745,"PhysicsCriticalStrikeRate":0.3090874113644313,"PhysicsCriticalDamagePowerPercent":1.8487142792240243,"PoisonOvercomePercent":0.26101942828070845,"StrainPercent":0.30931581568212324,"HastePercent":0.0074934898363714095,"SurplusValue":8491,"MaxHealth":499610,"PhysicsShieldPercent":0.05403183576484102,"PoisonShieldPercent":0.08252737350845098,"ToughnessDefCriticalPercent":0,"DecriticalDamagePercent":0.1,"MeleeWeaponAttackSpeed":16,"MeleeWeaponDamage":1574,"MeleeWeaponDamageRand":1049,"EquipList":{"HAT":{"id":"7_90834","stone":"","enchant":11684,"enhance":11532,"strength":6,"embedding":[6,6]},"BELT":{"id":"7_90776","stone":"","enchant":11680,"enhance":11650,"strength":6,"embedding":[6,6]},"SHOES":{"id":"7_90805","stone":"","enchant":11681,"enhance":11587,"strength":6,"embedding":[6,6]},"WRIST":{"id":"7_90917","stone":"","enchant":11682,"enhance":11578,"strength":6,"embedding":[6,6]},"JACKET":{"id":"7_90863","stone":"","enchant":11683,"enhance":11648,"strength":6,"embedding":[6,6]},"RING_1":{"id":"8_34442","stone":"","enchant":"","enhance":11661,"strength":6,"embedding":[]},"RING_2":{"id":"8_34320","stone":"","enchant":"","enhance":11661,"strength":6,"embedding":[]},"BOTTOMS":{"id":"7_90935","stone":"","enchant":"","enhance":11523,"strength":6,"embedding":[6,6]},"PENDANT":{"id":"8_34436","stone":"","enchant":"","enhance":11654,"strength":6,"embedding":[6]},"NECKLACE":{"id":"8_34430","stone":"","enchant":"","enhance":11652,"strength":6,"embedding":[6]},"PRIMARY_WEAPON":{"id":"6_32790","stone":4850,"enchant":"","enhance":11518,"strength":6,"embedding":[6,6,6]},"SECONDARY_WEAPON":{"id":"6_32773","stone":"","enchant":"","enhance":11669,"strength":6,"embedding":[6]}},"Title":"展锋毕业"}
+}

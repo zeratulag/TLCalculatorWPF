@@ -1,0 +1,147 @@
+{
+    "None": {
+        "Name": "None",
+        "IconID": -1,
+        "ItemName": "无阵法",
+        "DescName": "无",
+        "Buff_dict": null,
+        "BuffZ5_dict": null
+    },
+    "HS_Zhen": {
+        "Name": "HS_Zhen",
+        "IconID": 1802,
+        "ItemName": "天鼓雷音阵",
+        "DescName": "天鼓雷音阵",
+        "KungFu": "易筋经",
+        "Desc": "一重粗识：阅历提高5%，声望提高5%，内功基础攻击力提高5%\n二重略懂：无双提高2%。\n三重巧熟：内功基础破防提高10%\n四重精妙：招式会心则阵眼获得一点禅那\n五重游刃：阵眼施展“守缺式”，则小队成员内功基础攻击力提高2%，最多叠加5层\n六重忘我：若重伤，则阵眼招式必会心。",
+        "Buff_dict": {
+            "atFormationEffect": 0,
+            "atAddExpPercent": 50,
+            "atAddReputationPercent": 50,
+            "atMagicAttackPowerPercent": 51,
+            "atStrainRate": 20,
+            "atPoisonOvercomePercent": 102,
+            "atSolarOvercomePercent": 102,
+            "atNeutralOvercomePercent": 102,
+            "atLunarOvercomePercent": 102
+        },
+        "BuffZ5_dict": {
+            "atMagicAttackPowerPercent": 21
+        },
+        "Z5_max_stack": 5,
+        "Z5_default_stack": 5,
+        "Z5_cover": 1.0,
+        "BuffID": "919_6",
+        "BuffZ5ID": "920_1"
+    },
+    "HJ_Zhen": {
+        "Name": "HJ_Zhen",
+        "IconID": 1806,
+        "ItemName": "七绝逍遥阵",
+        "DescName": "七绝逍遥阵",
+        "KungFu": "花间游",
+        "Desc": "一重粗识：阅历提高5%，声望提高5%，内功基础攻击力提高5%。\n二重略懂：被击退的几率降低20%。\n三重巧熟：内功基础破防值提高30%。\n四重精妙：小队成员伤害招式会心，则阵眼对定身目标伤害提高20%持续5秒。\n五重游刃：阵眼施展“兰摧玉折”，则小队每秒恢复内力最大值的0.2%，持续18秒。\n六重忘我：若目标重伤，则阵眼恢复20点墨意。",
+        "Buff_dict": {
+            "atFormationEffect": 0,
+            "atAddExpPercent": 50,
+            "atAddReputationPercent": 50,
+            "atMagicAttackPowerPercent": 51,
+            "atKnockedBackRate": -200,
+            "atSolarOvercomePercent": 300,
+            "atNeutralOvercomePercent": 300,
+            "atLunarOvercomePercent": 300,
+            "atPoisonOvercomePercent": 300,
+            "atRepulsedRate": -200
+        },
+        "BuffZ5_dict": null,
+        "Z5_max_stack": 0,
+        "Z5_default_stack": 0,
+        "Z5_cover": 0.0,
+        "BuffID": "934_6",
+        "BuffZ5ID": ""
+    },
+    "JC_Zhen": {
+        "Name": "JC_Zhen",
+        "IconID": 1798,
+        "ItemName": "北斗七星阵",
+        "DescName": "北斗七星阵",
+        "KungFu": "太虚剑意",
+        "Desc": "一重粗识：阅历提高5%，声望提高5%，外功会心几率提高3%。\n二重略懂：无双提高2%。\n三重巧熟：外功会心效果等级提高15%。\n四重精妙：外功招式会心则可使阵眼额外获得一格气。\n五重游刃：阵眼施展续气招式会心，则小队成员外功会心几率提高1%，最多叠加五层。\n六重忘我：被会心攻击则可使阵眼外功基础攻击力提高20%，持续8秒。",
+        "Buff_dict": {
+            "atFormationEffect": 0,
+            "atPhysicsCriticalStrikeBaseRate": 300,
+            "atAddReputationPercent": 50,
+            "atAddExpPercent": 50,
+            "atStrainRate": 20,
+            "atPhysicsCriticalDamagePowerBaseKiloNumRate": 150
+        },
+        "BuffZ5_dict": {
+            "atPhysicsCriticalStrikeBaseRate": 100
+        },
+        "Z5_max_stack": 5,
+        "Z5_default_stack": 5,
+        "Z5_cover": 1.0,
+        "BuffID": "947_6",
+        "BuffZ5ID": "950_1"
+    },
+    "TL_Zhen": {
+        "Name": "TL_Zhen",
+        "IconID": 3152,
+        "ItemName": "千机百变阵",
+        "DescName": "千机百变阵",
+        "KungFu": "天罗诡道",
+        "Desc": "一重粗识：阅历提高5%，声望提高5%，内功基础攻击提高5%。\n二重略懂：无视目标5%防御等级。\n三重巧熟：受到的外功伤害降低5%，会心效果提高15%。\n四重精妙：内功招式会心则使阵眼恢复10点神机值。\n五重游刃：施展耗能量技能，则使小队成员会心几率提高5%，持续4秒。\n六重忘我：若重伤，则阵眼移动速度提高50%，受到的伤害降低50%，持续5秒。",
+        "Buff_dict": {
+            "atFormationEffect": 0,
+            "atAddExpPercent": 50,
+            "atAddReputationPercent": 50,
+            "atMagicAttackPowerPercent": 51,
+            "atAllShieldIgnorePercent": 52,
+            "atPhysicsDamageCoefficient": -51,
+            "atPhysicsCriticalDamagePowerBaseKiloNumRate": 150,
+            "atMagicCriticalDamagePowerBaseKiloNumRate": 150
+        },
+        "BuffZ5_dict": {
+            "atLunarCriticalStrikeBaseRate": 500,
+            "atNeutralCriticalStrikeBaseRate": 500,
+            "atPoisonCriticalStrikeBaseRate": 500,
+            "atSolarCriticalStrikeBaseRate": 500,
+            "atPhysicsCriticalStrikeBaseRate": 500
+        },
+        "Z5_max_stack": 1,
+        "Z5_default_stack": 1,
+        "Z5_cover": 1.0,
+        "BuffID": "3307_6",
+        "BuffZ5ID": "3310_1"
+    },
+    "TL_Zhen#Self": {
+        "Name": "TL_Zhen#Self",
+        "IconID": 3152,
+        "ItemName": "千机百变阵(自)",
+        "DescName": "千机百变阵",
+        "KungFu": "天罗诡道",
+        "Desc": "一重粗识：阅历提高5%，声望提高5%，内功基础攻击提高5%。\n二重略懂：无视目标5%防御等级。\n三重巧熟：受到的外功伤害降低5%，会心效果提高15%。\n四重精妙：内功招式会心则使阵眼恢复10点神机值。\n五重游刃：施展耗能量技能，则使小队成员会心几率提高5%，持续4秒。\n六重忘我：若重伤，则阵眼移动速度提高50%，受到的伤害降低50%，持续5秒。",
+        "Buff_dict": {
+            "atFormationEffect": 0,
+            "atAddExpPercent": 50,
+            "atAddReputationPercent": 50,
+            "atMagicAttackPowerPercent": 51,
+            "atAllShieldIgnorePercent": 52,
+            "atPhysicsDamageCoefficient": -51,
+            "atPhysicsCriticalDamagePowerBaseKiloNumRate": 150,
+            "atMagicCriticalDamagePowerBaseKiloNumRate": 150
+        },
+        "BuffZ5_dict": {
+            "atLunarCriticalStrikeBaseRate": 500,
+            "atNeutralCriticalStrikeBaseRate": 500,
+            "atPoisonCriticalStrikeBaseRate": 500,
+            "atSolarCriticalStrikeBaseRate": 500,
+            "atPhysicsCriticalStrikeBaseRate": 500
+        },
+        "Z5_max_stack": 1,
+        "Z5_default_stack": 1,
+        "Z5_cover": 1.0,
+        "BuffID": "3307_6",
+        "BuffZ5ID": "3310_1"
+    }
+}
